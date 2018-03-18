@@ -15,8 +15,8 @@ Patient distribution and exchange between caregivers are mainly handled by patie
 The work aims for an agent system for identifying a model of sustainable care production. This includes the multi-agent-based simulation of care givers, extended based on previous simulation model capacities from the author. The agent, representing a care giver, is exposed to the dynamic environment and capable of some autonomous decision makings for pursing the belief, desire or intention. The agents are to be extensively modelled with rich detail, with the ultimate driver of balanced resource utilizations. Then the interaction protocol of sending or receiving patients is enabled given the commitments and negotiations of care givers. A sustainable production model can then be more easily identified that balance the use of resources, and broaden our thinking on high-leverage interventions.
 
 References
-[1]	M. K. Delgado, L. Meng, M. Mercer, J. Pines, D. Owens, and G. Zaric, “Reducing Ambulance Diversion at the Hospital and Regional Levels: Systemic Review of Insights from Simulation Models,” West. J. Emerg. Med., vol. 14, no. 5, pp. 489–498, Sep. 2013.
-[2]	A. Hagihara, M. Hasegawa, Y. Hinohara, T. Abe, and M. Motoi, “The aging population and future demand for emergency ambulances in Japan,” Intern. Emerg. Med., vol. 8, no. 5, pp. 431–437, Aug. 2013.
-[3]	B. Sun and S. Asch, “Effects of Emergency Department Closures on Hospital Ambulance Diversion Hours, Los Angeles County 1998-2004,” Ann. Emerg. Med., vol. 46, no. 3, Supplement, p. 119, Sep. 2005.
+[1]	M. K. Delgado, L. Meng, M. Mercer, J. Pines, D. Owens, and G. Zaric, "Reducing Ambulance Diversion at the Hospital and Regional Levels: Systemic Review of Insights from Simulation Models" West. J. Emerg. Med., vol. 14, no. 5, pp. 489–498, Sep. 2013.
+[2]	A. Hagihara, M. Hasegawa, Y. Hinohara, T. Abe, and M. Motoi, "The aging population and future demand for emergency ambulances in Japan" Intern. Emerg. Med., vol. 8, no. 5, pp. 431–437, Aug. 2013.
+[3]	B. Sun and S. Asch, "Effects of Emergency Department Closures on Hospital Ambulance Diversion Hours, Los Angeles County 1998-2004" Ann. Emerg. Med., vol. 46, no. 3, Supplement, p. 119, Sep. 2005.
 
 
