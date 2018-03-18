@@ -28,10 +28,17 @@ Bibliometric results:
 H index: 2<br />
 Total number of citations: 10 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
 Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">Empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
+
 Cats, Zhang, & Nissan. (2016). <a href="Catsetal.ParkingOccupancy2016.pdf" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
+
 Sun, Martin, Zhang, & Lang. (2017) Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy. Submitted to Complexity. Major revision.<br/>
+
 Sun & Zhang. (2017) <a href="9541026.v1.pdf" target="_blank">Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system.</a> Rejected by Transportation Research Record. Searching for alternative outlets.<br/>
+
 Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view=article&articleid=healthinfo_2017_3_10_80047" target="_blank">Identifying influential factors of patient length of stay in a surgery center: a simulation modelling approach.</a> Proceedings of International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing. One of the best papers and invited to an extended version to one of the IARIA journals.<br/>
+
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Under review.<br/>
+
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BMC Advances in Simulations. Under review.<br/>
+
 Zhang and Meijer. (2018) Modelling and Simulation of the Provision of Emergency Care Service. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). Under review.<br/>
