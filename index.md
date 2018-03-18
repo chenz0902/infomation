@@ -2,9 +2,9 @@ CV for the PhD student
 Name: Chen Zhang (chenzh@kth.se)
 
 ## Degree, university degree, year, subject area
-Engineering Bachelor degree (traffic simulation) 2011<br /> 
-Graduate degree, (modelling and simulation) 2014<br />
-PhD health systems engineering, 2016<br />
+Engineering Bachelor degree (traffic simulation) 2011<br/> 
+Graduate degree, (modelling and simulation) 2014<br/>
+PhD health systems engineering, 2016<br/>
 
 ## Some specialist competence
 Simulation software development (subjective: healthcare, logistics and transportation)<br />
