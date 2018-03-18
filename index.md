@@ -15,7 +15,7 @@ A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
 Research positions as above: 
 2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
-2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">Sustainable Campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
+2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
 ## Other matters relevant
 Recent grants: Call of proposals on sustainability without boarders: main applicant, 2017-2018, 50K SEK<br />
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br />
@@ -24,7 +24,7 @@ Bibliometric results:
 4 peer-reviewed papers<br />
 H index: 2<br />
 Total number of citations: 10 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
-Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
+Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">Empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
 Cats, Zhang, & Nissan. (2016). <a href="Catsetal.ParkingOccupancy2016.pdf" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
 Sun, Martin, Zhang, & Lang. (2017) Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy. Submitted to Complexity. Major revision.<br/>
 Sun & Zhang. (2017) <a href="9541026.v1.pdf" target="_blank">Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system.</a> Rejected by Transportation Research Record. Searching for alternative outlets.<br/>
