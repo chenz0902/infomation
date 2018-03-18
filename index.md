@@ -1,5 +1,5 @@
 CV for the PhD student
-Name: Chen Zhang (chenzh@kth.se)
+Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
 ## Degree, university degree, year, subject area
 Engineering Bachelor degree (traffic simulation) 2011<br/> 
