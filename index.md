@@ -2,8 +2,9 @@ CV for the PhD student
 Name: Chen Zhang (chenzh@kth.se)
 
 ## Degree, university degree, year, subject area
-Engineering Bachelor degree (traffic simulation) 2011; Graduate degree, (modelling and
-simulation) 2014, PhD health systems engineering, 2016
+Engineering Bachelor degree (traffic simulation) 2011 
+Graduate degree, (modelling and simulation) 2014 
+PhD health systems engineering, 2016
 
 ## Some specialist competence
 Simulation software development (subjective: healthcare, logistics and transportation),
@@ -11,22 +12,20 @@ agent modelling
 
 ## Current engagement, share of research
 Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design].
-1) PhD student at Royal Institute of Technology (KTH), Department of Biomedical
-Engineering and Health Systems, Unit of Logistics and Informatics
+1) PhD student at Royal Institute of Technology (KTH), 
+Department of Biomedical Engineering and Health Systems, 
+Unit of Logistics and Informatics
 2) A free-lance simulation modeler consultant
 
 ## Previous jobs that might be relevant
-Research positions as above: 2013-2014 Student Research Assistant at KTH Department
-of Transport Science, 2017 until now heading a research project on sustainable campuses
-in universities and using computational methods in near cooperation with Department of
-Production of Engineering, for increasing the attractiveness of education and mobilization in
-suburban Stockholm areas.
+Research positions as above: 
+2013-2014 Student Research Assistant at KTH Department of Transport Science, 
+2017 until now heading a research project on sustainable campuses in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas.
 
 ## Other matters relevant
-Recent grants: Call of proposals on sustainability without boarders: main applicant, 2017-
-2018, 50K SEK
-Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application
-on freight based on a cross-disciplinary collaboration.
+Recent grants: 
+Call of proposals on sustainability without boarders: main applicant, 2017-2018, 50K SEK
+Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration.
 
 ## Scientific credentials 
 Bibliometric results:
