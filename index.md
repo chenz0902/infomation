@@ -1,4 +1,4 @@
-CV for the PhD student
+CV for the PhD student<br/>
 Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
 ## Degree, university degree, year, subject area
