@@ -17,8 +17,11 @@ Research positions as above:
 2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
 2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
 ## Other matters relevant
-Recent grants: Call of proposals on sustainability without boarders: main applicant, 2017-2018, 50K SEK<br />
-Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br />
+Recent grants:<br/>
+Call of proposals on KTH sustainability without boarders: main applicant, 2017-2018, 50K SEK<br/>
+Internship on issues (balancing, simulation, and Event-B)in Cyber-Physical Systems in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
+
 ## Scientific credentials 
 Bibliometric results:
 4 peer-reviewed papers<br />
