@@ -19,7 +19,7 @@ Research positions as above:
 ## Other matters relevant
 Recent grants:<br/>
 Call of proposals on KTH sustainability without boarders: main applicant, 2017-2018, 50K SEK<br/>
-Internship on issues (balancing, simulation, and Event-B)in Cyber-Physical Systems in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Internship on issues(balancing, simulation, and Event-B)in Cyber-Physical Systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Scientific credentials 
