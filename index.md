@@ -27,6 +27,7 @@ Bibliometric results:
 4 peer-reviewed papers<br />
 H index: 2<br />
 Total number of citations: 10 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
+
 Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">Empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
 
 Cats, Zhang, & Nissan. (2016). <a href="Catsetal.ParkingOccupancy2016.pdf" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
