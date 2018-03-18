@@ -22,6 +22,9 @@ Call of proposals on KTH sustainability without boarders: main applicant, 2017-2
 Internship on issues(balancing, simulation, and Event-B)in Cyber-Physical Systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
+## Interesting research questions
+See <a href="https://chenz0902.github.io/infomation/README.md" target="_blank">the proposals</a>. 
+
 ## Scientific credentials 
 Bibliometric results:
 4 peer-reviewed papers<br />
