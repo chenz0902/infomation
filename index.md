@@ -6,8 +6,8 @@ Engineering Bachelor degree (traffic simulation) 2011<br/>
 Graduate degree, (modelling and simulation) 2014<br/>
 PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016<br />
 ## Some specialist competence
-Simulation software development (subjective: healthcare, logistics and transportation)<br />
-agent modelling<br />
+Simulation application development (subjective: healthcare, logistics and transport)<br />
+agent modelling<br/>
 ## Current engagement, share of research
 Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
 PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and Informatics<br />
