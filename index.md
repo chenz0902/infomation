@@ -21,7 +21,7 @@ Recent grants:<br/>
 Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017<br/>
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
 Internship on issues(balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
-PhD scholarship by KTH-CSC funding
+PhD scholarship<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
