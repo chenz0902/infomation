@@ -4,7 +4,7 @@ Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 ## Degree, university degree, year, subject area
 Engineering Bachelor degree (traffic simulation) 2011<br/> 
 Graduate degree, (modelling and simulation) 2014<br/>
-PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016, Huddinge Sweden<br />
+PhD student <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016, Huddinge Sweden<br />
 ## Some specialist competence
 Simulation application development (subjective: healthcare, logistics and transport)<br />
 agent modelling<br/>
@@ -20,7 +20,7 @@ Research positions as above:
 Recent grants:<br/>
 Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017<br/>
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
-Internship on issues(balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 PhD scholarship<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
