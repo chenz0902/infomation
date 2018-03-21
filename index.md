@@ -4,7 +4,7 @@ Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 ## Degree, university degree, year, subject area
 Engineering Bachelor degree (traffic simulation) 2011<br/> 
 Graduate degree, (modelling and simulation) 2014<br/>
-PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016<br />, Huddinge Sweden
+PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016, Huddinge Sweden<br />
 ## Some specialist competence
 Simulation application development (subjective: healthcare, logistics and transport)<br />
 agent modelling<br/>
