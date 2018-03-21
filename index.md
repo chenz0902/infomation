@@ -18,7 +18,7 @@ Research positions as above:
 2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
 ## Other matters relevant
 Recent grants:<br/>
-Stockholms School of Economics Scholarship holder for the summer program: medical industry leadership, 2017
+Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
 Internship on issues(balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
