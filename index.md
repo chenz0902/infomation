@@ -4,13 +4,13 @@ Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 ## Degree, university degree, year, subject area
 Engineering Bachelor degree (traffic simulation) 2011<br/> 
 Graduate degree, (modelling and simulation) 2014<br/>
-PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016<br />
+PhD <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016<br />, Huddinge Sweden
 ## Some specialist competence
 Simulation application development (subjective: healthcare, logistics and transport)<br />
 agent modelling<br/>
 ## Current engagement, share of research
 Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
-PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and Informatics<br />
+PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and hälsoinformatics<br />
 A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
 Research positions as above: 
@@ -18,8 +18,8 @@ Research positions as above:
 2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
 ## Other matters relevant
 Recent grants:<br/>
-Call of proposals on KTH sustainability without boarders: main applicant, 2017-2018, 50K SEK<br/>
-Internship on issues(balancing, simulation, and Event-B)in Cyber-Physical Systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
+Internship on issues(balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
