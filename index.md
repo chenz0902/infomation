@@ -25,7 +25,7 @@ PhD scholarship<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
-See <a href="https://chenz0902.github.io/infomation/README.md" target="_blank">the proposals</a>. 
+Published on an unregular basis. 
 
 ## Scientific credentials 
 Bibliometric results:
@@ -39,7 +39,7 @@ Cats, Zhang, & Nissan. (2016). <a href="https://www.sciencedirect.com/science/ar
 
 Sun, Martin, Zhang, & Lang. (2017) Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy. Submitted to Complexity. Major revision.<br/>
 
-Sun & Zhang. (2017) <a href="9541026.v1.pdf" target="_blank">Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system.</a> Rejected by Transportation Research Record. Searching for alternative outlets.<br/>
+Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Rejected by Transportation Research Record. Searching for alternative outlets.<br/>
 
 Zhang, Hanchi, & Meijer. (2017) <a href="http://ieeexplore.ieee.org/document/8125405/" target="_blank">Evaluating the effect of centralized administration on health care performances using discrete-event simulation.</a> Proceedings of International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing. One of the best papers and invited to an extended version to one of the IARIA journals.<br/>
 
