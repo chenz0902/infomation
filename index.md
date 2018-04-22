@@ -20,9 +20,9 @@ Research positions as above:
 Recent grants:<br/>
 Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017<br/>
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
-Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
 PhD scholarship<br/>
-Admitted to the Analysis and Modelling of Sustainabie Manufacturing and Logistics course, and sponsered by Emerald Publishing, and Norden NordeForsk and (held as well) by Carisma, San Marino 
+Admitted to the Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (held as well) by Carisma, San Marino<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
