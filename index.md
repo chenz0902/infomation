@@ -20,8 +20,9 @@ Research positions as above:
 Recent grants:<br/>
 Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017<br/>
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
-Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
+Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Chiyoda Tokyo, Japan<br/>
 PhD scholarship<br/>
+Admitted to the Analysis and Modelling of Sustainabie Manufacturing and Logistics course, and sponsered by Emerald Publishing, and Norden NordeForsk and (held as well) by Carisma, San Marino 
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
@@ -39,7 +40,7 @@ Cats, Zhang, & Nissan. (2016). <a href="https://www.sciencedirect.com/science/ar
 
 Sun, Martin, Zhang, & Lang. (2017) Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy. Submitted to Complexity. Major revision.<br/>
 
-Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Rejected by Transportation Research Record. Searching for alternative outlets.<br/>
+Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Submitted to Urban Rail Transit.<br/>
 
 Zhang, Hanchi, & Meijer. (2017) <a href="http://ieeexplore.ieee.org/document/8125405/" target="_blank">Evaluating the effect of centralized administration on health care performances using discrete-event simulation.</a> Proceedings of International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing. One of the best papers and invited to an extended version to one of the IARIA journals.<br/>
 
@@ -47,6 +48,6 @@ Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view
 
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Under review.<br/>
 
-Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BioMedical Central Advances in Simulations. Under review.<br/>
+Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BioMedical Central Advances in Simulations. Under revision.<br/>
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). Under review.<br/>
