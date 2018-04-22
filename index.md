@@ -51,3 +51,5 @@ Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BioMedical Central Advances in Simulations. Under revision.<br/>
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). Under review.<br/>
+
+Zhang and Meijer. (2018) Simulation Game for Patient Transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. Under reveiw <br/>
