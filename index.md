@@ -29,10 +29,6 @@ Miscellanies:
 ## Interesting research questions
 Published on an unregular basis. 
 
-## Language comprehension
-English in scientific reading and writing
-Swedish but rather basic communicatoins
-
 ## Scientific credentials 
 Bibliometric results:
 4 peer-reviewed papers<br />
@@ -58,3 +54,5 @@ Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). proceed as paper.<br/>
 
 Zhang and Meijer. (2018) Simulation game for patient transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. accepted <br/>
+## Student thesis instructor
+Zhengyu Wang and Al-shorji, degree project in datateknik, Live video streaming to the cloud services
