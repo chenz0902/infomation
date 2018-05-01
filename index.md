@@ -55,4 +55,4 @@ Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency ca
 
 Zhang and Meijer. (2018) Simulation game for patient transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. accepted <br/>
 ## Student thesis instructor
-Zhengyu Wang and Al-shorji, degree project in datateknik, Live video streaming to the cloud services
+Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
