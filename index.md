@@ -13,7 +13,7 @@ agent modelling<br/>
 PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and hälsoinformatics<br />
 -A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
-Research positions as above: 
+Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
 -2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed<br />
 ## Other matters relevant
