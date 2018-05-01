@@ -25,10 +25,10 @@ Recent grants:<br/>
 -Internaitonal doctoral course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
 Miscellanies: <br/>
 -Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
-
+## Student thesis instructor
+Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
 ## Interesting research questions
 Published on an unregular basis. 
-
 ## Scientific credentials 
 Bibliometric results:
 4 peer-reviewed papers<br />
@@ -54,5 +54,3 @@ Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). proceed as paper.<br/>
 
 Zhang and Meijer. (2018) Simulation game for patient transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. accepted <br/>
-## Student thesis instructor
-Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
