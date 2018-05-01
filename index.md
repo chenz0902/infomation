@@ -28,6 +28,10 @@ Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, 
 ## Interesting research questions
 Published on an unregular basis. 
 
+## Language comprehension
+English in scientific reading and writing
+Swedish but rather basic communicatoins
+
 ## Scientific credentials 
 Bibliometric results:
 4 peer-reviewed papers<br />
