@@ -18,11 +18,11 @@ Research positions as above:
 2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
 ## Other matters relevant
 Recent grants:<br/>
-Stockholms School of Economics scholarship holder for summer program: medical industry leadership, 2017<br/>
+Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
 Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
 Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
-PhD scholarship<br/>
-Admitted to the Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (held as well) by Carisma, San Marino<br/>
+PhD scholarship funding<br/>
+Internaitonal Doctoral Course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
 Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
@@ -50,6 +50,6 @@ Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors 
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BioMedical Central Advances in Simulations. Under revision.<br/>
 
-Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). Under review.<br/>
+Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Submitted to the 2018 Annual Conference of Council of Engineering Systems Universities (CESUN). proceed as paper.<br/>
 
-Zhang and Meijer. (2018) Simulation game for patient transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. Under reveiw <br/>
+Zhang and Meijer. (2018) Simulation game for patient transportation. Submitted to the 2018 International Simulation and Gaming Society (ISAGA) conference. accepted <br/>
