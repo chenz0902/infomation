@@ -9,21 +9,22 @@ PhD student <a href="https://www.kth.se/mth" target="_blank">(Health Systems Eng
 Simulation application development (subjective: healthcare, logistics and transport)<br />
 agent modelling<br/>
 ## Current engagement, share of research
-Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
+♢Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
 PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and hälsoinformatics<br />
-A free-lance simulation modeler consultant<br />
+♢A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
 Research positions as above: 
-2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
-2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas<br />
+♢2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
+♢2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in near cooperation with Department of Production of Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed<br />
 ## Other matters relevant
 Recent grants:<br/>
-Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
-Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
-Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
-PhD scholarship funding<br/>
-Internaitonal Doctoral Course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
-Miscellanies: Since 2016 engaged in Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
+♢Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
+♢Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
+♢Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo,      Japan<br/>
+♢PhD scholarship funding<br/>
+♢Internaitonal doctoral course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, and Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
+Miscellanies: 
+♢Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Interesting research questions
 Published on an unregular basis. 
