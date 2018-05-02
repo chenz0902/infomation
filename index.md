@@ -39,7 +39,7 @@ Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" tar
 
 Cats, Zhang, & Nissan. (2016). <a href="https://www.sciencedirect.com/science/article/pii/S0967070X15300858" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
 
-Sun, Martin, Zhang, & Lang. (2017)  <a href="https://1drv.ms/b/s!AsK7qXKwx4p9gchkL9qKdNDHz83npw" target="_blank">Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy</a> Submitted to Complexity. minor revision<br/>
+Sun, Martin, Zhang, & Lang. (2017)  <a href="https://www.hindawi.com/journals/complexity/aip/8645793/" target="_blank">Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy</a> Submitted to Complexity. in press<br/>
 
 Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Submitted to Urban Rail Transit.<br/>
 
