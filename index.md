@@ -15,7 +15,7 @@ PhD student at Royal Institute of Technology (KTH), Department of Biomedical Eng
 ## Previous jobs that might be relevant
 Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
--2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed<br />
+-2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance and so the accessbility might be limited<br />
 ## Other matters relevant
 Recent grants:<br/>
 -Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
@@ -47,7 +47,7 @@ Zhang, Hanchi, & Meijer. (2017) <a href="http://ieeexplore.ieee.org/document/812
 
 Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view=article&articleid=healthinfo_2017_3_10_80047" target="_blank">Identifying influential factors of patient length of stay in a surgery center: a simulation modelling approach.</a> Proceedings of International Conference on Management of Engineering and Technology.<br/>
 
-Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Under review.<br/>
+Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Accepted.<br/>
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. Submitted to BioMedical Central Advances in Simulations. Under revision.<br/>
 
