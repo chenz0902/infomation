@@ -15,7 +15,7 @@ PhD student at Royal Institute of Technology (KTH), Department of Biomedical Eng
 ## Previous jobs that might be relevant
 Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
--2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance and so the accessbility might be limited<br />
+-2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
 ## Other matters relevant
 Recent grants:<br/>
 -Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
