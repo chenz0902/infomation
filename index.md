@@ -33,7 +33,7 @@ Published on an unregular basis.
 Bibliometric results:
 4 peer-reviewed papers<br />
 H index: 2<br />
-Total number of citations: 10 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
+Total number of citations: 11 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
 
 Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">Empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
 
