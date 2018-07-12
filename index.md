@@ -52,4 +52,4 @@ Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational 
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
-Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation.</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
+Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
