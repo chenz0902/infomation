@@ -9,9 +9,8 @@ KTH-KI PhD student <a href="https://www.kth.se/mth" target="_blank">(Health Syst
 Simulation application development (subjective: healthcare, logistics and transport)<br />
 agent modelling<br/>
 ## Current engagement, share of research
--Since 2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
+-2016 September - ongoing [50% doctoral courses, 25% agent-based modelling, 25% healthcare simulation design]<br />
 PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of Logistics and hälsoinformatics<br />
--A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
 Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
