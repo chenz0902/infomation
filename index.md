@@ -37,7 +37,7 @@ Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" tar
 
 Cats, Zhang, & Nissan. (2016). <a href="https://www.sciencedirect.com/science/article/pii/S0967070X15300858" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
 
-Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Submitted to Urban Rail Transit.<br/>
+Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Urban Rail Transit. major revision.<br/>
 
 Zhang, Hanchi, & Meijer. (2017) <a href="http://ieeexplore.ieee.org/document/8125405/" target="_blank">Evaluating the effect of centralized administration on health care performances using discrete-event simulation.</a> Proceedings of International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing. One of the best papers and invited to an extended version to one of the IARIA journals.<br/>
 
@@ -47,7 +47,7 @@ Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view
 
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Accepted.<br/>
 
-Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. BioMedical Central Advances in Simulations. accepted.<br/>
+Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. BioMedical Central Advances in Simulations. in press.<br/>
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
