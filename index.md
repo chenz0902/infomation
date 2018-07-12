@@ -14,14 +14,13 @@ PhD student at Royal Institute of Technology (KTH), Department of Biomedical Eng
 -A free-lance simulation modeler consultant<br />
 ## Previous jobs that might be relevant
 Research positions as above: <br />
--2013-2014 Student Research Assistant at KTH Department of Transport Science<br /> 
--2017 until now heading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
+-2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
+-2017 until now leading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
 ## Other matters relevant
 Recent grants:<br/>
 -Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
 -Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
 -Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
--PhD scholarship funding<br/>
 -Internaitonal doctoral course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
 Miscellanies: <br/>
 -Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
@@ -53,4 +52,4 @@ Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational 
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
-Zhang and Meijer. (2018) Simulation game for patient transportation. International Simulation and Gaming Society (ISAGA) conference. <br/>
+Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation.</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
