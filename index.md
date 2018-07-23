@@ -14,7 +14,7 @@ PhD student at Royal Institute of Technology (KTH), Department of Biomedical Eng
 ## Previous jobs that might be relevant
 Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
--2017 until now leading a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
+-2017 until now responsible for a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
 ## Other matters relevant
 Recent grants:<br/>
 -Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
@@ -29,9 +29,10 @@ Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video stre
 Published on an unregular basis. 
 ## Scientific credentials 
 Bibliometric results:
-4 peer-reviewed papers<br />
-H index: 2<br />
-Total number of citations: 11 (2 times cited in Web of Science, 3 times cited in Scopus)<br/>
+Citations: 13<br/>
+H index: 2<br/>
+
+Welcomed to cite the following contributions if you find them useful for your own works<br/>
 
 Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" target="_blank">Empirical evaluation of an on-street parking pricing scheme in the city center</a>. 94th Transportation Research Board Annual Meeting.<br/>
 
