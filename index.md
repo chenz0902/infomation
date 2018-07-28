@@ -48,7 +48,7 @@ Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view
 
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Accepted.<br/>
 
-Zhang, Grandits, Pukk, Hauge & Meijer. (2018) Training non-rational operational management in healthcare: what are the available logistical simulations. BioMedical Central Advances in Simulations. in press.<br/>
+Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
 Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
