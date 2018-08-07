@@ -38,15 +38,15 @@ Cats, Zhang, & Nissan. (2015). <a href="http://docs.trb.org/prp/15-2068.pdf" tar
 
 Cats, Zhang, & Nissan. (2016). <a href="https://www.sciencedirect.com/science/article/pii/S0967070X15300858" target="_blank">Survey methodology for measuring parking occupancy: Impacts of an on-street parking pricing scheme in an urban center.</a> Transport Policy, 47, 55-63.<br/>
 
-Sun & Zhang. (2017) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Urban Rail Transit. major revision.<br/>
-
 Zhang, Hanchi, & Meijer. (2017) <a href="http://ieeexplore.ieee.org/document/8125405/" target="_blank">Evaluating the effect of centralized administration on health care performances using discrete-event simulation.</a> Proceedings of International Conference on Informatics and Assistive Technologies for Health-Care, Medical Support and Wellbeing. One of the best papers and invited to an extended version to one of the IARIA journals.<br/>
-
-Sun, Martin, Zhang, & Lang. (2018)  <a href="https://www.hindawi.com/journals/complexity/aip/8645793/" target="_blank">Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy.</a> Complexity.<br/>
 
 Zhang, Hanchi, & Meijer. (2017) <a href="http://www.thinkmind.org/index.php?view=article&articleid=healthinfo_2017_3_10_80047" target="_blank">Identifying influential factors of patient length of stay in a surgery center: a simulation modelling approach.</a> Proceedings of International Conference on Management of Engineering and Technology.<br/>
 
+Sun, Martin, Zhang, & Lang. (2018)  <a href="https://www.hindawi.com/journals/complexity/aip/8645793/" target="_blank">Solving a green multimodal routing problem considering rail service capacity uncertainty and road traffic congestion: A timedependent fuzzy programming model and exact solution strategy.</a> Complexity.<br/>
+
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Accepted.<br/>
+
+Sun, Zhang, Dong, & Lang. (2018) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Urban Rail Transit. accepted.<br/>
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
