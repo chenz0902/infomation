@@ -44,6 +44,6 @@ Sun, Zhang, Dong, & Lang. (2018) Towards efficient cooperative arrangement betwe
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
-Zhang and Meijer. (2018) Modelling and simulation of the Stockholms emergency care. Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
+Zhang and Meijer. (2018) <a href= "http://www.cesun2018.org/program.html" target ="_blank"> Modelling and simulation of the Stockholms emergency care. </a> Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
 Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
