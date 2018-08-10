@@ -1,15 +1,10 @@
-CV for the PhD student<br/>
 Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
-## Degree, university degree, year, subject area
-Engineering Bachelor degree (traffic simulation) 2011<br/> 
-Graduate degree, (modelling and simulation) 2014<br/>
-KTH-KI PhD student <a href="https://www.kth.se/mth" target="_blank">(Health Systems Engineering)</a> since September 2016, Huddinge Sweden<br />
 ## Some specialist competence
 operative simulation modelling (subjective: healthcare, logistics and transport)<br />
-small games design <br/>
+simulation games design for training and education of coordination in service provision<br/>
 ## Current engagement, share of research
-PhD student at Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of logistics and hälsoinformatics<br />
+Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of logistics and hälsoinformatics<br />
 ## Previous jobs that might be relevant
 Research positions as above: <br />
 -2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
