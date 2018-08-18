@@ -40,9 +40,11 @@ Sun, Martin, Zhang, & Lang. (2018)  <a href="https://www.hindawi.com/journals/co
 
 Zhang, Hanchi & Meijer. (2018) Using simulation to identify influential factors of patient stay: protocol and application to a surgery center. Submitted to International Journal of Advances in Life Sciences. Accepted.<br/>
 
-Sun, Zhang, Dong, & Lang. (2018) Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. Urban Rail Transit by Springer. In press.<br/>
+Sun, Zhang, Dong, & Lang. (2018) <a href= "https://link.springer.com/content/pdf/10.1007%2Fs40864-018-0086-4.pdf" target="_blank"> Towards efficient cooperative arrangement between road haulage firms: an agent-based decision support system. </a> Urban Rail Transit by Springer.<br/>
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
+
+Work not publicly available: 
 
 Zhang and Meijer. (2018) <a href= "http://www.cesun2018.org/program.html" target ="_blank"> Modelling and simulation of the Stockholms emergency care. </a> Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
