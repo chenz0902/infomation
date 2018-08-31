@@ -19,6 +19,10 @@ Miscellanies: <br/>
 -Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 ## Student thesis instructor
 Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
+
+## Academic Service
+Editor / Board Member of International Journal of HIV and AIDS Research
+
 ## Interesting research questions
 Published on an unregular basis. 
 ## Scientific credentials 
