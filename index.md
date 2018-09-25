@@ -25,7 +25,8 @@ Editor / Board Member of International Journal of HIV and AIDS Research
 
 ## Interesting research questions
 What is your point of view on the usefullness of on-line simulation games? Find an example here 
-<iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe>
+<iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
+
 ## Scientific credentials 
 Bibliometric results:
 Citations: 13<br/>
