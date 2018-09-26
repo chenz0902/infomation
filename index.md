@@ -1,6 +1,6 @@
 Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 ## Research domain
-simulation games (how does it look like? find the example below there!) 
+simulation game (how does it look like? illustrate with the example below!) 
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
 
 ## Academic service
