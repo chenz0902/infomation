@@ -1,32 +1,9 @@
 Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
-
-## Some specialist competence
-operative simulation modelling (subjective: healthcare, logistics and transport)<br />
-simulation games design for training and education of coordination in service provision<br/>
-## Current engagement, share of research
-Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of logistics and hälsoinformatics<br />
-## Previous jobs that might be relevant
-Research positions as above: <br />
--2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
--2017 until now responsible for a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
-## Other matters relevant
-Recent grants:<br/>
--Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
--Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
--Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
--Internaitonal doctoral course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
-Miscellanies: <br/>
--Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
-## Student thesis instructor
-Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
-
+## Research domain
+simulation games (example below) 
+<iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
 ## Academic service
 Editor / Board Member of International Journal of HIV and AIDS Research
-
-## Interesting research questions
-What is your point of view on the usefullness of on-line simulation games? Find an example here 
-<iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
-
 ## Scientific credentials 
 Bibliometric results:
 Citations: 13<br/>
@@ -50,8 +27,32 @@ Sun, Zhang, Dong, & Lang. (2018) <a href= "https://link.springer.com/article/10.
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
-Work not publicly available: 
+Work may not be publicly available: 
 
 Zhang and Meijer. (2018) <a href= "http://www.cesun2018.org/program.html" target ="_blank"> Modelling and simulation of the Stockholms emergency care. </a> Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
 Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
+
+## Some specialist competence
+operative simulation modelling (subjective: healthcare, logistics and transport)<br />
+simulation games design for training and education of coordination in service provision<br/>
+## Current engagement, share of research
+Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of logistics and hälsoinformatics<br />
+## Previous jobs that might be relevant
+Research positions as above: <br />
+-2013-2014 Student Research Assistant at KTH Department of Transport Science <br /> 
+-2017 until now responsible for a research project on <a href="http://gaming.sth.kth.se/Mobility/" target="_blank">sustainable campus</a> in universities and using computational methods in close cooperation with Department of Production Engineering, for increasing the attractiveness of education and mobilization in suburban Stockholm areas. More thant 200 employees and students have been surveyed. Obs! the server is in maintenance due to safety issues and so the accessbility might be limited<br />
+## Other things
+Recent grants:<br/>
+-Stockholms School of Economics scholarship award for summer program: medical industry leadership, 2017<br/>
+-Call of proposals by KTH sustainability without boarders: main applicant, 2017-2018 budget year, 50K SEK<br/>
+-Funded Internship on issues (balancing, simulation, and Event-B) in cyber-physical systems, in National Center of Sciences, Tokyo, Japan<br/>
+-Internaitonal doctoral course on Analysis and Modelling of Sustainabie Manufacturing and Logistics course, sponsered by Emerald Publishing, Norden NordeForsk and (hosted) by Carisma, San Marino<br/>
+Miscellanies: <br/>
+-Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
+## Student thesis instructor
+Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
+
+
+
+
