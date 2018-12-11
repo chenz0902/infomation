@@ -30,7 +30,7 @@ Works that may not be publicly available:
 
 Zhang and Meijer. (2018) <a href= "http://www.cesun2018.org/program.html" target ="_blank"> Modelling and simulation of the Stockholms emergency care. </a> Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
 
-Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. International Simulation and Gaming Society (ISAGA) conference. <br/>
+Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. Springer Translational System Sciences, 2019, in press. <br/>
 
 ## Research theme
 simulation games for training and education of coordination in service provisions<br/>
