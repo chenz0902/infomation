@@ -1,4 +1,4 @@
-Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
+Name: Cevin Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
 ## Academic service
 Editor / Board Member of International Journal of HIV and AIDS Research<br/>
