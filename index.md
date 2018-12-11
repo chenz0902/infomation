@@ -2,6 +2,7 @@ Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
 ## Academic service
 Editor / Board Member of International Journal of HIV and AIDS Research
+Reviewer BMJ Global Health
 
 ## Scientific credentials 
 Bibliometric results:
@@ -26,16 +27,18 @@ Sun, Zhang, Dong, & Lang. (2018) <a href= "https://link.springer.com/article/10.
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
+Zhang and Meijer. (2018) A simulation game of patient transportation. Neo Simulation Gaming, Towards Active Learning. Springer Translational System Sciences, 2019, in press. <br/>
+
 Works that may not be publicly available: 
 
 Zhang and Meijer. (2018) <a href= "http://www.cesun2018.org/program.html" target ="_blank"> Modelling and simulation of the Stockholms emergency care. </a> Annual Conference of Council of Engineering Systems Universities (CESUN).<br/>
-
-Zhang and Meijer. (2018) <a href="http://www.thonburi-u.ac.th/ISAGA2018/DocISAGA/ISAGA_proceeding_Book_Update_v5.pdf" target="_blank">Simulation game of patient transportation</a>. Springer Translational System Sciences, 2019, in press. <br/>
 
 ## Research theme
 simulation games for training and education of coordination in service provisions<br/>
 (how does it look like? illustrated with the example below!) 
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
+
+For board gaming, click <a href="Gaming Simulation Health System.pdf" target="_blank">here.<br/>
 
 ## Current engagement, share of research
 Royal Institute of Technology (KTH), Unit of logistics and hälsoinformatics<br />
