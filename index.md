@@ -1,8 +1,8 @@
 Name: Chen Zhang <a href="mailto:chenzh@kth.se">chenzh@kth.se</a><br/>
 
 ## Academic service
-Editor / Board Member of International Journal of HIV and AIDS Research
-Reviewer BMJ Global Health
+Editor / Board Member of International Journal of HIV and AIDS Research<br/>
+Reviewer BMJ Global Health<br/>
 
 ## Scientific credentials 
 Bibliometric results:
