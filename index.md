@@ -38,7 +38,7 @@ simulation games for training and education of coordination in service provision
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
 
 ## Current engagement, share of research
-Royal Institute of Technology (KTH), Department of Biomedical Engineering and Health Systems, Unit of logistics and hälsoinformatics<br />
+Royal Institute of Technology (KTH), Unit of logistics and hälsoinformatics<br />
 
 ## Previous jobs that might be relevant
 Research positions as above: <br />
