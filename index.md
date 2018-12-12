@@ -38,8 +38,6 @@ simulation games for training and education of coordination in service provision
 (how does it look like? illustrated with the example below!) 
 <iframe width="1000" height="650" allow="fullscreen" src="https://cloud.anylogic.com/assets/embed?modelId=bb5ce616-61f0-4503-adaa-d6d751595cf7"></iframe> <br/>
 
-For board gaming, click <a href="Gaming Simulation Health System.pdf" target="_blank">here.<br/>
-
 ## Current engagement, share of research
 Royal Institute of Technology (KTH), Unit of logistics and hälsoinformatics<br />
 
