@@ -27,7 +27,7 @@ Sun, Zhang (corresponding), Dong, & Lang. (2018) <a href= "https://link.springer
 
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
-Sun, Liang, Li & Zhang (corresponding). (2019)  <a href=""https://www.mdpi.com/2073-8994/11/1/91"" target="_blank">A Fuzzy Programming Method for Modeling the Demand Uncertainty in the Capacitated Road-Rail Multimodal Routing Problem with Time Windows.</a> Symmetry.<br/>
+Sun, Liang, Li & Zhang (corresponding). (2019)  <a href="https://www.mdpi.com/2073-8994/11/1/91" target="_blank">A Fuzzy Programming Method for Modeling the Demand Uncertainty in the Capacitated Road-Rail Multimodal Routing Problem with Time Windows.</a> Symmetry.<br/>
 
 Zhang and Meijer. (2018) A simulation game of patient transportation. Neo Simulation Gaming, Towards Active Learning. Springer Translational System Sciences, 2019, in press. <br/>
 
