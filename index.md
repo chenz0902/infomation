@@ -5,9 +5,6 @@ Editor / Board Member of International Journal of HIV and AIDS Research<br/>
 Reviewer BMJ Global Health<br/>
 
 ## Scientific credentials 
-Bibliometric results:
-Citations: 13<br/>
-H index: 2<br/>
 
 Welcomed to cite the following contributions if you find them useful for your own works<br/>
 
@@ -28,8 +25,6 @@ Sun, Zhang (corresponding), Dong, & Lang. (2018) <a href= "https://link.springer
 Zhang, Grandits, Pukk, Hauge & Meijer. (2018) <a href="https://advancesinsimulation.biomedcentral.com/articles/10.1186/s41077-018-0072-7" target="_blank">Simulation models for non-technical skill training in healthcare logistics.</a> BioMedical Central Advances in Simulations.<br/>
 
 Sun, Liang, Li & Zhang (corresponding). (2019)  <a href="https://www.mdpi.com/2073-8994/11/1/91" target="_blank">A Fuzzy Programming Method for Modeling the Demand Uncertainty in the Capacitated Road-Rail Multimodal Routing Problem with Time Windows.</a> Symmetry.<br/>
-
-Zhang and Meijer. (2018) A simulation game of patient transportation. Neo Simulation Gaming, Towards Active Learning. Springer Translational System Sciences, 2019, in press. <br/>
 
 Works that may not be publicly available: 
 
@@ -58,4 +53,5 @@ Miscellanies: <br/>
 -Since 2016 interested in exploring the role of Physical Internet in sustainable logistics, application on freight based on a cross-disciplinary collaboration<br/>
 
 ## Student thesis instructor
-Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, Live video streaming to the cloud services, Flemingsberg, Sweden
+Zhengyu Wang and Yoseph Al-shorji, degree project in datateknik, <a href="https://kth-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=TN_divakth-236503&context=PC&vid=46KTH_VU1_L&search_scope=default_scope&tab=default_tab&lang=en_US
+" target="_blank">Live video streaming to the cloud services</a>, Flemingsberg, Sweden
